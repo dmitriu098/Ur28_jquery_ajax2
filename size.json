@@ -1,0 +1,78 @@
+[
+  {"id":1,
+      "color_id":1,
+      "size":
+      [
+          {"name":"L"},
+          {"name":"XL"},
+          {"name":"XXXL"}
+
+      ],
+    "price":150
+  },
+
+  {"id":2,
+    "color_id":2,
+    "size":
+    [
+      {"name":"S"},
+      {"name":"M"},
+      {"name":"L"},
+      {"name":"XL"}
+    ],
+    "price":200
+  },
+
+  {"id":3,
+    "color_id":3,
+    "size":
+    [
+      {"name":"S"},
+      {"name":"M"},
+      {"name":"L"},
+      {"name":"XXL"}
+    ],
+    "price":350
+  },
+
+  {"id":4,
+    "color_id":4,
+    "size":
+    [
+      {"name":"S"},
+      {"name":"XS"},
+      {"name":"M"},
+      {"name":"L"},
+      {"name":"XL"},
+      {"name":"XXL"}
+    ],
+    "price":175
+  },
+
+  {"id":5,
+    "color_id":5,
+    "size":
+    [
+      {"name":"S"},
+      {"name":"XS"},
+      {"name":"XL"},
+      {"name":"XXL"}
+    ],
+    "price":125
+  },
+
+  {"id":6,
+    "color_id":6,
+    "size":
+    [
+      {"name":"S"},
+      {"name":"XS"},
+      {"name":"M"},
+      {"name":"XM"},
+      {"name":"L"},
+      {"name":"XL"},
+      {"name":"XXL"}
+    ],
+    "price":115
+  }
+]

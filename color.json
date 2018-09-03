@@ -1,0 +1,8 @@
+[
+  {"id":1, "name":"white", "src":"images/white.jpg"},
+  {"id":2, "name":"red", "src":"images/red.jpg"},
+  {"id":3, "name":"blue", "src":"images/blue.jpg"},
+  {"id":4, "name":"green", "src":"images/green.jpg"},
+  {"id":5, "name":"yellow", "src":"images/yellow.jpg"},
+  {"id":6, "name":"black", "src":"images/black.jpg"}
+]
